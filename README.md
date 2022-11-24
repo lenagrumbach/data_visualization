@@ -40,7 +40,7 @@ For this work I used a database with sales information available on the internet
 ## Conclusion
   - Dashboards were built with filters that allow user to easily visualize sales by geographic, customer and product line. All information is available both in percentages and in values.
 
-  - Financial analysis shows annual growth of 34%, churn below 2% and forecast indicating continued sales growth. An important point of attention is sales made below the manufacturer's suggested price. In the first year they represented 5% of total sales, rising to 8.4% in the second year and reaching 12.3% in the current year. It would be advisable to have access to more financial data to analyze the company's profitability.
+  - Financial analysis shows annual growth of 34%, churn below 2% and forecast indicating continued sales growth. An important point of attention is sales below the manufacturer's suggested price. In the first year they represented 5% of total sales, rising to 8.4% in the second year and reaching 12.3% in the current year. It would be advisable to have access to more financial data to analyze the company's profitability.
 
 
 ## Contact
